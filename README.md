@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Reasonal](https://reason.al).
-- 📫 Find me at [musicallyut.in](https://musicallyut.in)
+- 📫 Find me at [musicallyut.xyz](https://musicallyut.xyz)
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: My code is on Mars
